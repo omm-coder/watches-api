@@ -1,0 +1,100 @@
+{
+    "watches": [
+        {
+            "watchId": 1,
+            "title": "Black Sports Watch",
+            "category": "sports",
+            "rate": 4,
+            "price": 399,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/black-sport-watch.png"
+        },
+         {
+            "watchId": 2,
+            "title": "Black Watch",
+            "category": "classic",
+            "rate": 5,
+            "price": 599,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/black-watch.png"
+        },
+         {
+            "watchId": 3,
+            "title": "Chrome Watch",
+            "category": "modern",
+            "rate": 5,
+            "price": 399,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/watch-1.png"
+        },
+        {
+            "watchId": 4,
+            "title": "Classic Watch",
+            "category": "classic",
+            "rate": 4,
+            "price": 399,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/watch-2.png"
+        },
+         {
+            "watchId": 5,
+            "title": "Custom Watch",
+            "category": "sports",
+            "rate": 4,
+            "price": 199,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/custom-watch.png"
+        },
+         {
+            "watchId": 6,
+            "title": "Gold Watch",
+            "category": "Best Sellers",
+            "rate": 5,
+            "price": 699,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/gold-watch.png"
+        },
+        {
+            "watchId": 7,
+            "title": "Navy Blut Watch",
+            "category": "Best Sellers",
+            "rate": 4,
+            "price": 399,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/navy-blue-watch.png"
+        },
+        {
+            "watchId": 8,
+            "title": "pink Watch",
+            "category": "uncategorized",
+            "rate": 4,
+            "price": 299,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/pink-watch.png"
+        },
+        {
+            "watchId": 9,
+            "title": "Red Sports Watch",
+            "category": "sports",
+            "rate": 5,
+            "price": 599,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/red-sport-watch.png"
+        },
+         {
+            "watchId": 10,
+            "title": "Rose Gold Watch",
+            "category": "modern",
+            "rate": 4,
+            "price": 699,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/rose-gold-watch.png"
+        },
+         {
+            "watchId": 11,
+            "title": "Sports Watch",
+            "category": "sports",
+            "rate": 4,
+            "price": 35,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/green-watch.png"
+        },
+          {
+            "watchId": 12,
+            "title": "White Watch",
+            "category": "Best Sellers",
+            "rate": 5,
+            "price": 18,
+            "img": "https://xtratheme.com/elementor/watch-shop/wp-content/uploads/sites/79/2021/10/white-sports-watch.png"
+        }
+    ]
+}
